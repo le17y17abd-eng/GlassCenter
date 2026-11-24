@@ -3,7 +3,7 @@ Name: GlassCenter
 Version: 1.0.0
 Architecture: iphoneos-arm64
 Description: iOS 18 style Control Center with iOS 26 Liquid Glass look. Swipe down from the top edge.
-Maintainer: Your Name
-Author: Your Name
+Maintainer: Yasser
+Author: yasser
 Section: Tweaks
 Depends: ellekit | mobilesubstrate, firmware (>= 15.0)
